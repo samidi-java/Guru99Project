@@ -55,4 +55,10 @@ public class LoginTest extends BaseTest {
 	{
 		Assert.assertEquals(true, true);
 	}
+	
+	@Test
+	public void test5()
+	{
+		Assert.assertEquals(true, true);
+	}
 }
