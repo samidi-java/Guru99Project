@@ -1,0 +1,91 @@
+2022-06-06 06:21:02,809 - ebanking -INFO - loginTestWithValidCredentials test is started
+2022-06-06 06:21:08,973 - ebanking -INFO - https://demo.guru99.com/V4/index.php url is opened
+2022-06-06 06:21:09,580 - ebanking -INFO - User id entered sucessfully
+2022-06-06 06:21:09,759 - ebanking -INFO - Password entered sucessfully
+2022-06-06 06:21:10,978 - ebanking -INFO - Login button clicked sucessfully
+2022-06-06 06:21:10,986 - ebanking -INFO - actualTitle:Guru99 Bank Manager HomePage
+2022-06-06 06:21:10,991 - ebanking -INFO - expectedTitle:Guru99 Bank Manager HomePage
+2022-06-06 06:21:11,041 - ebanking -INFO - loginTestWithValidCredentials test is completed
+2022-06-06 08:31:12,104 - ebanking -INFO - loginTestWithValidCredentials test is started
+2022-06-06 08:31:18,841 - ebanking -INFO - https://demo.guru99.com/V4/index.php url is opened
+2022-06-06 08:31:20,064 - ebanking -INFO - User id entered sucessfully
+2022-06-06 08:31:20,355 - ebanking -INFO - Password entered sucessfully
+2022-06-06 08:31:22,191 - ebanking -INFO - Login button clicked sucessfully
+2022-06-06 08:31:22,205 - ebanking -INFO - actualTitle:Guru99 Bank Manager HomePage
+2022-06-06 08:31:22,205 - ebanking -INFO - expectedTitle:Guru99 Bank Manager HomePage
+2022-06-06 08:31:22,214 - ebanking -INFO - loginTestWithValidCredentials test is completed
+2022-06-06 09:07:06,225 - ebanking -INFO - loginTestWithValidCredentials test is started
+2022-06-06 09:07:14,136 - ebanking -INFO - https://demo.guru99.com/V4/index.php url is opened
+2022-06-06 09:07:16,282 - ebanking -INFO - User id entered sucessfully
+2022-06-06 09:07:16,532 - ebanking -INFO - Password entered sucessfully
+2022-06-06 09:07:18,690 - ebanking -INFO - Login button clicked sucessfully
+2022-06-06 09:07:18,705 - ebanking -INFO - actualTitle:Guru99 Bank Manager HomePage
+2022-06-06 09:07:18,708 - ebanking -INFO - expectedTitle:Guru99 Bank Manager HomePage
+2022-06-06 09:07:18,713 - ebanking -INFO - loginTestWithValidCredentials test is completed
+2022-06-07 08:36:17,513 - ebanking -INFO - loginTestWithValidCredentials test is started
+2022-06-07 08:36:25,153 - ebanking -INFO - https://demo.guru99.com/V4/index.php url is opened
+2022-06-07 08:36:25,627 - ebanking -INFO - User id entered sucessfully
+2022-06-07 08:36:26,483 - ebanking -INFO - Password entered sucessfully
+2022-06-07 08:36:29,213 - ebanking -INFO - Login button clicked sucessfully
+2022-06-07 08:36:29,229 - ebanking -INFO - actualTitle:Guru99 Bank Manager HomePage
+2022-06-07 08:36:29,229 - ebanking -INFO - expectedTitle:Guru99 Bank Manager HomePage
+2022-06-07 08:36:29,247 - ebanking -INFO - loginTestWithValidCredentials test is completed
+2022-06-07 08:37:23,428 - ebanking -INFO - loginTestWithValidCredentials test is started
+2022-06-07 08:37:28,758 - ebanking -INFO - https://demo.guru99.com/V4/index.php url is opened
+2022-06-07 08:37:29,235 - ebanking -INFO - User id entered sucessfully
+2022-06-07 08:37:29,398 - ebanking -INFO - Password entered sucessfully
+2022-06-07 08:37:35,054 - ebanking -INFO - Login button clicked sucessfully
+2022-06-07 08:37:35,077 - ebanking -INFO - actualTitle:Guru99 Bank Manager HomePage
+2022-06-07 08:37:35,078 - ebanking -INFO - expectedTitle:Guru99 Bank Manager HomePage
+2022-06-07 08:37:35,087 - ebanking -INFO - loginTestWithValidCredentials test is completed
+2022-06-07 08:38:22,483 - ebanking -INFO - loginTestWithValidCredentials test is started
+2022-06-07 08:38:26,457 - ebanking -INFO - https://demo.guru99.com/V4/index.php url is opened
+2022-06-07 08:38:29,379 - ebanking -INFO - User id entered sucessfully
+2022-06-07 08:38:29,672 - ebanking -INFO - Password entered sucessfully
+2022-06-07 08:38:36,742 - ebanking -INFO - Login button clicked sucessfully
+2022-06-07 08:38:36,799 - ebanking -INFO - actualTitle:Guru99 Bank Manager HomePage
+2022-06-07 08:38:36,802 - ebanking -INFO - expectedTitle:Guru99 Bank Manager HomePage
+2022-06-07 08:38:36,812 - ebanking -INFO - loginTestWithValidCredentials test is completed
+2022-06-07 08:59:48,677 - ebanking -INFO - loginTestWithValidCredentials test is started
+2022-06-07 08:59:53,117 - ebanking -INFO - https://demo.guru99.com/V4/index.php url is opened
+2022-06-07 08:59:55,531 - ebanking -INFO - User id entered sucessfully
+2022-06-07 08:59:55,701 - ebanking -INFO - Password entered sucessfully
+2022-06-07 09:00:00,316 - ebanking -INFO - Login button clicked sucessfully
+2022-06-07 09:00:00,372 - ebanking -INFO - actualTitle:Guru99 Bank Manager HomePage
+2022-06-07 09:00:00,373 - ebanking -INFO - expectedTitle:Guru99 Bank Manager HomePage
+2022-06-07 09:00:00,396 - ebanking -INFO - loginTestWithValidCredentials test is completed
+2022-06-07 09:01:38,784 - ebanking -INFO - loginTestWithValidCredentials test is started
+2022-06-07 09:01:43,335 - ebanking -INFO - https://demo.guru99.com/V4/index.php url is opened
+2022-06-07 09:01:44,033 - ebanking -INFO - User id entered sucessfully
+2022-06-07 09:01:44,597 - ebanking -INFO - Password entered sucessfully
+2022-06-07 09:01:48,902 - ebanking -INFO - Login button clicked sucessfully
+2022-06-07 09:01:48,915 - ebanking -INFO - actualTitle:Guru99 Bank Manager HomePage
+2022-06-07 09:01:48,916 - ebanking -INFO - expectedTitle:Guru99 Bank Manager HomePage1
+2022-06-07 09:04:04,633 - ebanking -INFO - loginTestWithValidCredentials test is started
+2022-06-07 09:04:18,084 - ebanking -INFO - https://demo.guru99.com/V4/index.php url is opened
+2022-06-07 09:04:29,060 - ebanking -INFO - User id entered sucessfully
+2022-06-07 09:04:36,521 - ebanking -INFO - Password entered sucessfully
+2022-06-07 09:04:48,199 - ebanking -INFO - Login button clicked sucessfully
+2022-06-07 09:05:11,250 - ebanking -INFO - actualTitle:Guru99 Bank Manager HomePage
+2022-06-07 09:05:11,937 - ebanking -INFO - expectedTitle:Guru99 Bank Manager HomePage1
+2022-06-08 08:53:41,742 - ebanking -INFO - loginTestWithValidCredentials test is started
+2022-06-08 08:53:47,453 - ebanking -INFO - https://demo.guru99.com/V4/index.php url is opened
+2022-06-08 08:53:47,906 - ebanking -INFO - User id entered sucessfully
+2022-06-08 08:53:49,423 - ebanking -INFO - Password entered sucessfully
+2022-06-08 08:53:56,870 - ebanking -INFO - Login button clicked sucessfully
+2022-06-08 08:53:56,924 - ebanking -INFO - actualTitle:Guru99 Bank Manager HomePage
+2022-06-08 08:53:56,925 - ebanking -INFO - expectedTitle:Guru99 Bank Manager HomePage1
+2022-06-08 09:00:35,744 - ebanking -INFO - loginTestWithValidCredentials test is started
+2022-06-08 09:00:40,865 - ebanking -INFO - https://demo.guru99.com/V4/index.php url is opened
+2022-06-08 09:00:43,859 - ebanking -INFO - User id entered sucessfully
+2022-06-08 09:00:44,116 - ebanking -INFO - Password entered sucessfully
+2022-06-08 09:00:47,979 - ebanking -INFO - Login button clicked sucessfully
+2022-06-08 09:00:48,023 - ebanking -INFO - actualTitle:Guru99 Bank Manager HomePage
+2022-06-08 09:00:48,024 - ebanking -INFO - expectedTitle:Guru99 Bank Manager HomePage1
+2022-06-08 09:05:07,487 - ebanking -INFO - loginTestWithValidCredentials test is started
+2022-06-08 09:05:11,983 - ebanking -INFO - https://demo.guru99.com/V4/index.php url is opened
+2022-06-08 09:05:13,169 - ebanking -INFO - User id entered sucessfully
+2022-06-08 09:05:14,405 - ebanking -INFO - Password entered sucessfully
+2022-06-08 09:05:35,938 - ebanking -INFO - Login button clicked sucessfully
+2022-06-08 09:05:35,967 - ebanking -INFO - actualTitle:Guru99 Bank Manager HomePage
+2022-06-08 09:05:35,970 - ebanking -INFO - expectedTitle:Guru99 Bank Manager HomePage1
