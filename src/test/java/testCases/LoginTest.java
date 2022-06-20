@@ -8,7 +8,7 @@ import pageObjects.LoginPage;
 public class LoginTest extends BaseTest {
 
 	
-	@Test(enabled = false)
+	@Test
 	public void loginTestWithValidCredentials()
 	{
 		logger.info("loginTestWithValidCredentials test is started");
@@ -22,7 +22,7 @@ public class LoginTest extends BaseTest {
 		loginPage.clickLogin();
 		logger.info("Login button clicked sucessfully");
 		String actualTitle=driver.getTitle();
-		String expectedTitle="Guru99 Bank Manager HomePage1";
+		String expectedTitle="Guru99 Bank Manager HomePage";
 		logger.info("actualTitle:"+actualTitle);
 		logger.info("expectedTitle:"+expectedTitle);
 		//Assert.assertEquals(actualTitle, expectedTitle);
