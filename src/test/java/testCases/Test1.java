@@ -15,4 +15,11 @@ public class Test1 {
 	{
 		System.out.println("in test2");
 	}
+	
+
+	@Test
+	public void test3()
+	{
+		System.out.println("in test3");
+	}
 }
