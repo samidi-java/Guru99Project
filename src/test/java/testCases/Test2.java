@@ -10,5 +10,13 @@ public class Test2 {
 		System.out.println("in test1()");
 		
 	}
+	
+	@Test
+	public void test2()
+	{
+		System.out.println("in test2()");
+		
+	}
+
 
 }
