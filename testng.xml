@@ -8,6 +8,8 @@
   <parameter name="browser" value="chrome"></parameter>
     <classes>
      <class name="testCases.LoginTest"/> 
+     <class name="testCases.Test1"/> 
+     <class name="testCases.Test2"/> 
      <!--  <class name="testCases.TC_LoginDTT_002"/> -->
     </classes>
   </test> <!-- Test -->
